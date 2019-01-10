@@ -1,0 +1,7 @@
+button {
+  font-size: 250%;
+  cursor: pointer;
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+}

@@ -1,0 +1,22 @@
+button {
+  font-size: 250%;
+  cursor: pointer;
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+}
+
+.container {
+  background: #edeef0;
+  width: 350px;
+  position: relative;
+}
+
+input {
+  width: 99%;
+  height: 10%;
+  top: 10%;
+  outline: navajowhite;
+  font-size: 250%;
+  direction: rtl;
+}
